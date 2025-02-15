@@ -1,4 +1,12 @@
-# Тестирование мобильных приложений
+# <img width="30" height="30" src="https://img.icons8.com/nolan/96/two-smartphones.png" alt="two-smartphones"/> Тестирование мобильных приложений
+В процессе обучения я протестировала мобильное приложение - ["shopping-list"](https://drive.google.com/file/d/1wSz1J4Ba-VDgjv82RIk59EaQ1Ys16ph8/view) для Android. Данное приложение предназначено для создания и управления списком покупок. На основании требований к приложению была составлена следующая тестовая документация
+
+
+
+
+
+
+
 ## Задание 22
 Чек-лист для тестирования мобильного приложения Shopping-list
 - [@Решение](https://docs.google.com/spreadsheets/d/1DPpKEdrQt3Md6vbfvEaCWmpuGGdt4JAKr-E1HicOCPs/edit?usp=sharing)
